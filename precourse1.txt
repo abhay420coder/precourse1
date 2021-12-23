@@ -1,0 +1,9 @@
+how to create a repository
+how to push code in repository
+what is web appliction
+what is server
+what is fullstack
+whic app is used in full stack
+what is frontend , backend , database developer
+what is html
+what is css
